@@ -5,12 +5,12 @@ Java test for Java Backend Developer at Encora
 
 ### Compile the Java file
 ```bash
-java -cp src JavaTest
+javac JavaTest.java
 ```
 ### Run the java file
 
 ```bash
-java -cp src JavaTest
+java JavaTest.java
 ```
 ### Example Output
 
